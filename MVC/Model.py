@@ -48,6 +48,10 @@ class Subject:
         
         c_Adr = 'https://openexchangerates.org/api/latest.json?app_id=6fa1d62264a04c2dafad182cb62a4903'
         IBOV_Adr = 'http://g1.globo.com/economia/mercados/cotacoes/bmf-bovespa/'
+        
+        # Na URL do c_Adr, a tag de id é individual e estou disponibilizando a minha para motivos de
+        # teste, com limite de 1000 acessos mensais. Visite o https://openexchangerates.org/ para 
+        # assinar o serviço da API.
     
     
     
