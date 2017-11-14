@@ -10,7 +10,7 @@ utilizada no projeto foi Oxygen.
                                                                                                   
     Em primeiro lugar, é válido lembrar que o código se encontra todo comentado.                  
                                                                                                   
-    Em primeiro lugar, é importante lembrar que o programa é inicializado através do módulo Main.py; e, uma vez 
+    Também é importante lembrar que o programa é inicializado através do módulo Main.py; e, uma vez 
     inicializado, o usuário pode realizar três operações distintas, mais duas relacionadas à manutenção dos dados 
     e finalização do tempo de execução do programa:                                                                                                                   
     [1] Buscar valores das cotações de moedas;                                                    
