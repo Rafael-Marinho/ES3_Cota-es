@@ -5,6 +5,12 @@ para buscar valores das cotações de diversas moedas, minérios e da IBOVESPA.
 O projeto utiliza o framework PyDev, que pode ser utilizado na IDE Eclipse. De fato, a versão do Eclipse
 utilizada no projeto foi Oxygen.
 
+# ÍNDICE:
+#
+# [1] Manual;
+# [2] Imagens;
+# [3] Sobre.
+
 
                                          ..:: MANUAL ::..                                         
                                                                                                   
@@ -51,6 +57,14 @@ utilizada no projeto foi Oxygen.
     intactos. 
     [5] A função de encerrar o programa faz exatamente o que sugere o nome: uma vez chamada, o tempo de execução do 
     programa é encerrado.
+
+
+[2] Imagens:
+
+
+
+
+[3] Créditos:
 
 Desenvolvido por Rafael Marinho, estudante de Engenharia de Software III no curso de 
 Tecnologia em Análise e Desenvolvimento de Sistemas, sob a tutela de 
